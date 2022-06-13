@@ -29,4 +29,4 @@ pip install adabelief-pytorch==0.2.0
 EfficientNetV2_m|--0-|gragragra|
 
 
-![fefe](https://drive.google.com/file/d/1geC0uiu9mb5VigZTq7fBfyJixhqptutZ/view?usp=sharing)
+![fefe]([https://drive.google.com/file/d/1geC0uiu9mb5VigZTq7fBfyJixhqptutZ/view?usp=sharing](https://drive.google.com/uc?export=download&id=1geC0uiu9mb5VigZTq7fBfyJixhqptutZ))
