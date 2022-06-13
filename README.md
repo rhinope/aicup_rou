@@ -24,9 +24,9 @@ pip install adabelief-pytorch==0.2.0
 
 # 程式檔案
 
-模型名稱|Jupyter Notebook|權重|
---|--|--|
-EfficientNetV2_m|--0-|gragragra|
+模型名稱|Jupyter Notebook|權重|Result|
+--|--|--|--|
+EfficientNetV2_m|--0-|[weight](https://drive.google.com/file/d/1PRl_sLD4p6T1HNPD57duAMfKOjaWyWb0/view?usp=sharing)|[result](https://github.com/rhinope/aicup_rou/blob/main/output.zip)|
 
 
-![fefe]([https://drive.google.com/file/d/1geC0uiu9mb5VigZTq7fBfyJixhqptutZ/view?usp=sharing](https://drive.google.com/uc?export=download&id=1geC0uiu9mb5VigZTq7fBfyJixhqptutZ))
+
