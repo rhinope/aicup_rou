@@ -1,7 +1,7 @@
 # AICUP Rou
 
 
-# 環境介紹 : 
+# 訓練環境介紹 : 
 ```
 使用TWCC : cm.2xsuper
 映像檔為 : pytorch-22.02-py3:latest
@@ -28,5 +28,7 @@ pip install adabelief-pytorch==0.2.0
 --|--|--|--|
 EfficientNetV2_m|--0-|[weight](https://drive.google.com/file/d/1PRl_sLD4p6T1HNPD57duAMfKOjaWyWb0/view?usp=sharing)|[result](https://github.com/rhinope/aicup_rou/blob/main/output.zip)|
 
+
+# 使用範例
 
 
