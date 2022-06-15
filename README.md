@@ -27,7 +27,7 @@ pip install adabelief-pytorch==0.2.0
 模型名稱|Jupyter Notebook|權重|Result|
 --|--|--|--|
 EfficientNetV2_m|--0-|[weight](https://drive.google.com/file/d/1PRl_sLD4p6T1HNPD57duAMfKOjaWyWb0/view?usp=sharing)|[result](https://github.com/rhinope/aicup_rou/blob/main/output.zip)|
-
+Pseudo Label|[Pseudo Label maker.ipynb](https://github.com/rhinope/aicup_rou/blob/main/pub2img_public.ipynb)|---|[Pseudo Label](https://github.com/rhinope/aicup_rou/blob/main/ann_plus%20(Pseudo%20Label).zip)
 
 # 使用範例
 
