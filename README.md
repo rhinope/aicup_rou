@@ -31,4 +31,22 @@ Pseudo Label|[Pseudo Label maker.ipynb](https://github.com/rhinope/aicup_rou/blo
 
 # 使用範例
 
+### 路徑修改
+1. 訓練圖片路徑
+```
+# path
+folder_path = "{YOUR PATH}"
+```
 
+2. 權重讀取位置
+```
+model.load_state_dict(torch.load("{}.pth".format(save_path)))
+```
+
+3. Public、Private dataset 路徑
+```
+tempdir = "{PUBLIC_PATH}"
+tempdir = "{PRIVATE_PATH}"
+```
+
+4. 訓練時若出現size mismatch，很有能是訓練圖片的整數無法整除Batchsize，導致Batchnormalize出現問題，這時只要更改Training 跟 Validation的比例即可
