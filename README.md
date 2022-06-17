@@ -49,4 +49,4 @@ tempdir = "{PUBLIC_PATH}"
 tempdir = "{PRIVATE_PATH}"
 ```
 
-4. 訓練時若出現size mismatch，很有能是訓練圖片的整數無法整除Batchsize，導致Batchnormalize出現問題，這時只要更改Training 跟 Validation的比例即可
+4. 訓練時若出現size mismatch，很有能是訓練的**圖片總數**無法整除Batchsize，導致Batchnormalize出現問題，這時只要更改Training 跟 Validation的比例即可
